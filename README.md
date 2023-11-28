@@ -50,5 +50,6 @@ L'application est structurée en modules distincts :
 1. Mise en œuvre d'une authentification pour sécuriser l'accès aux fonctionnalités administratives.
 2. Ajout de fonctionnalités de recherche et de filtrage pour faciliter la navigation des utilisateurs.
 3. Optimisation des performances et gestion des erreurs pour une meilleure expérience utilisateur.
+4. Développement et mise en place d'un espace client afin d'élargir les fonctionnalités de l'application.
 
 Ce rapport offre un aperçu des composants clés et des technologies utilisées dans le développement de l'application E-Marketing avec des fonctionnalités administratives. L'évolutivité future du projet peut inclure des améliorations fonctionnelles et l'intégration de nouvelles technologies en fonction des besoins.
