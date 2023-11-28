@@ -1,17 +1,11 @@
 # FullStack_e-com_App
-An ,admin, oriented e-commerce site using React, NodeJs, express, MongoDB
 
-
-# Rapport de Projet: Application E-Marketing avec Fonctionnalités Admin
 
 ## 1. Objectif du Projet :
 
-L'objectif principal de ce projet est de développer une application E-Marketing permettant aux utilisateurs de visualiser des produits avec leurs prix associés. L'application est également dotée de fonctionnalités administratives permettant la gestion des opérations CRUD (Create, Read, Update, Delete) sur les produits.
+L'objectif principal de ce projet est de développer une application E-Marketing dotée de fonctionnalités administratives permettant la gestion des opérations CRUD (Create, Read, Update, Delete) sur les produits.
 
 ## 2. Fonctionnalités Principales :
-
-### Affichage de Produits :
-Les utilisateurs peuvent parcourir la liste des produits disponibles, visualiser leurs détails et connaître les prix associés.
 
 ### Fonctionnalités Admin :
 Les administrateurs ont accès à des fonctionnalités avancées pour gérer les produits, y compris l'ajout de nouveaux produits, la modification des détails existants et la suppression de produits obsolètes.
