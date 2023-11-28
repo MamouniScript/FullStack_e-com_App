@@ -3,7 +3,7 @@
 
 ## 1. Objectif du Projet :
 
-L'objectif principal de ce projet est de développer une application E-Marketing dotée de fonctionnalités administratives permettant la gestion des opérations CRUD (Create, Read, Update, Delete) sur les produits.
+L'objectif central de ce projet réside dans le développement d'une application E-Marketing munie de fonctionnalités administratives pour la gestion complète des opérations CRUD (Create, Read, Update, Delete) relatives aux produits. Cette initiative vise également à offrir une opportunité d'entraînement approfondi, mettant l'accent sur l'acquisition de compétences essentielles dans les technologies du développement FullStack intégrées au sein de ce projet.
 
 ## 2. Fonctionnalités Principales :
 
